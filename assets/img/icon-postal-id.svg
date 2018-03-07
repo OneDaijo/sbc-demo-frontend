@@ -1,0 +1,78 @@
+<svg width="57" height="36" viewBox="0 0 57 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Postal ID</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(50288 -25955)">
+<g id="Icon/Postal ID">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-50288 25955)" fill="#EDF7FC"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-50288 25955)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-50288 25955)" fill="#0086BF"/>
+</g>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path2_fill" transform="translate(-50282 25958)" fill="#93C1DB"/>
+<use xlink:href="#path3_stroke" transform="translate(-50282 25958)" fill="#0086BF"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path4_fill" transform="translate(-50283.4 25968.1)" fill="#FFFFFF"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="translate(-50283.4 25968.1)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="translate(-50283.4 25968.1)" fill="#0086BF"/>
+</g>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-50243.5 25978.4)" fill="#6095B2"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path6_fill" fill="white" transform="translate(-50243.5 25978.4)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path7_stroke_2x" transform="translate(-50243.5 25978.4)" fill="#0086BF"/>
+</g>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path8_stroke" transform="translate(-50287.4 25963.4)" fill="#0086BF"/>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path9_stroke" transform="matrix(1 -2.44929e-16 2.44929e-16 1 -50250 25960)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.8">
+<use xlink:href="#path10_stroke" transform="matrix(1 -4.29701e-16 1.3961e-16 1 -50266.9 25969.9)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.6">
+<use xlink:href="#path11_stroke" transform="translate(-50266.9 25973.7)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.2">
+<use xlink:href="#path12_stroke" transform="matrix(1 -4.29701e-16 1.3961e-16 1 -50257.2 25979.7)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.3">
+<use xlink:href="#path12_stroke" transform="matrix(1 -4.29701e-16 1.3961e-16 1 -50250.9 25979.7)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.4">
+<use xlink:href="#path12_stroke" transform="matrix(1 -4.29701e-16 1.3961e-16 1 -50250.9 25983.6)" fill="#0086BF"/>
+</g>
+<g id="Vector 2.5">
+<use xlink:href="#path12_stroke" transform="matrix(1 -4.29701e-16 1.3961e-16 1 -50257.2 25983.6)" fill="#0086BF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 54 0C 55.6569 0 57 1.34315 57 3L 57 33C 57 34.6569 55.6569 36 54 36L 3 36C 1.34315 36 0 34.6569 0 33L 0 3Z"/>
+<path id="path1_stroke_2x" d="M 3 1.3L 54 1.3L 54 -1.3L 3 -1.3L 3 1.3ZM 55.7 3L 55.7 33L 58.3 33L 58.3 3L 55.7 3ZM 54 34.7L 3 34.7L 3 37.3L 54 37.3L 54 34.7ZM 1.3 33L 1.3 3L -1.3 3L -1.3 33L 1.3 33ZM 3 34.7C 2.06112 34.7 1.3 33.9389 1.3 33L -1.3 33C -1.3 35.3748 0.625176 37.3 3 37.3L 3 34.7ZM 55.7 33C 55.7 33.9389 54.9389 34.7 54 34.7L 54 37.3C 56.3748 37.3 58.3 35.3748 58.3 33L 55.7 33ZM 54 1.3C 54.9389 1.3 55.7 2.06112 55.7 3L 58.3 3C 58.3 0.625176 56.3748 -1.3 54 -1.3L 54 1.3ZM 3 -1.3C 0.625176 -1.3 -1.3 0.625176 -1.3 3L 1.3 3C 1.3 2.06112 2.06112 1.3 3 1.3L 3 -1.3Z"/>
+<path id="path2_fill" d="M 5 2.5C 5 3.88071 3.88071 5 2.5 5C 1.11929 5 0 3.88071 0 2.5C 0 1.11929 1.11929 0 2.5 0C 3.88071 0 5 1.11929 5 2.5Z"/>
+<path id="path3_stroke" d="M 4.35 2.5C 4.35 3.52173 3.52173 4.35 2.5 4.35L 2.5 5.65C 4.2397 5.65 5.65 4.2397 5.65 2.5L 4.35 2.5ZM 2.5 4.35C 1.47827 4.35 0.65 3.52173 0.65 2.5L -0.65 2.5C -0.65 4.2397 0.760303 5.65 2.5 5.65L 2.5 4.35ZM 0.65 2.5C 0.65 1.47827 1.47827 0.65 2.5 0.65L 2.5 -0.65C 0.760303 -0.65 -0.65 0.760303 -0.65 2.5L 0.65 2.5ZM 2.5 0.65C 3.52173 0.65 4.35 1.47827 4.35 2.5L 5.65 2.5C 5.65 0.760303 4.2397 -0.65 2.5 -0.65L 2.5 0.65Z"/>
+<path id="path4_fill" d="M 0 0L 14.25 0L 14.25 18.2857L 0 18.2857L 0 0Z"/>
+<path id="path5_stroke_2x" d="M 0 0L 0 -1.3L -1.3 -1.3L -1.3 0L 0 0ZM 14.25 0L 15.55 0L 15.55 -1.3L 14.25 -1.3L 14.25 0ZM 14.25 18.2857L 14.25 19.5857L 15.55 19.5857L 15.55 18.2857L 14.25 18.2857ZM 0 18.2857L -1.3 18.2857L -1.3 19.5857L 0 19.5857L 0 18.2857ZM 0 1.3L 14.25 1.3L 14.25 -1.3L 0 -1.3L 0 1.3ZM 12.95 0L 12.95 18.2857L 15.55 18.2857L 15.55 0L 12.95 0ZM 14.25 16.9857L 0 16.9857L 0 19.5857L 14.25 19.5857L 14.25 16.9857ZM 1.3 18.2857L 1.3 0L -1.3 0L -1.3 18.2857L 1.3 18.2857Z"/>
+<path id="path6_fill" d="M 0 0L 9.12 0L 9.12 9.14286L 0 9.14286L 0 0Z"/>
+<path id="path7_stroke_2x" d="M 0 0L 0 -1.3L -1.3 -1.3L -1.3 0L 0 0ZM 9.12 0L 10.42 0L 10.42 -1.3L 9.12 -1.3L 9.12 0ZM 9.12 9.14286L 9.12 10.4429L 10.42 10.4429L 10.42 9.14286L 9.12 9.14286ZM 0 9.14286L -1.3 9.14286L -1.3 10.4429L 0 10.4429L 0 9.14286ZM 0 1.3L 9.12 1.3L 9.12 -1.3L 0 -1.3L 0 1.3ZM 7.82 0L 7.82 9.14286L 10.42 9.14286L 10.42 0L 7.82 0ZM 9.12 7.84286L 0 7.84286L 0 10.4429L 9.12 10.4429L 9.12 7.84286ZM 1.3 9.14286L 1.3 0L -1.3 0L -1.3 9.14286L 1.3 9.14286Z"/>
+<path id="path8_stroke" d="M 0.117382 3.14544C 9.0544 1.5039 18.2352 0.6493 27.645 0.65L 27.645 -0.65C 18.1749 -0.6493 8.87661 0.216113 -0.117382 1.86682L 0.117382 3.14544ZM 27.645 0.65C 37.2543 0.64927 46.6255 1.5405 55.7402 3.25077L 55.9798 1.97305C 46.8071 0.253237 37.3159 -0.64927 27.645 -0.65L 27.645 0.65Z"/>
+<path id="path9_stroke" d="M 0 -0.65C -0.358985 -0.65 -0.65 -0.358985 -0.65 0C -0.65 0.358985 -0.358985 0.65 0 0.65L 0 -0.65ZM 14 0.65C 14.359 0.65 14.65 0.358985 14.65 0C 14.65 -0.358985 14.359 -0.65 14 -0.65L 14 0.65ZM 0 0.65L 14 0.65L 14 -0.65L 0 -0.65L 0 0.65Z"/>
+<path id="path10_stroke" d="M 0 -0.65C -0.358985 -0.65 -0.65 -0.358985 -0.65 0C -0.65 0.358985 -0.358985 0.65 0 0.65L 0 -0.65ZM 19.95 0.65C 20.309 0.65 20.6 0.358985 20.6 0C 20.6 -0.358985 20.309 -0.65 19.95 -0.65L 19.95 0.65ZM 0 0.65L 19.95 0.65L 19.95 -0.65L 0 -0.65L 0 0.65Z"/>
+<path id="path11_stroke" d="M 0 -0.65C -0.358985 -0.65 -0.65 -0.358985 -0.65 0C -0.65 0.358985 -0.358985 0.65 0 0.65L 0 -0.65ZM 11.97 0.65C 12.329 0.65 12.62 0.358985 12.62 0C 12.62 -0.358985 12.329 -0.65 11.97 -0.65L 11.97 0.65ZM 0 0.65L 11.97 0.65L 11.97 -0.65L 0 -0.65L 0 0.65Z"/>
+<path id="path12_stroke" d="M 0 -0.65C -0.358985 -0.65 -0.65 -0.358985 -0.65 0C -0.65 0.358985 -0.358985 0.65 0 0.65L 0 -0.65ZM 3.42 0.65C 3.77899 0.65 4.07 0.358985 4.07 0C 4.07 -0.358985 3.77899 -0.65 3.42 -0.65L 3.42 0.65ZM 0 0.65L 3.42 0.65L 3.42 -0.65L 0 -0.65L 0 0.65Z"/>
+</defs>
+</svg>

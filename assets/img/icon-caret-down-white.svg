@@ -1,0 +1,27 @@
+<svg width="9" height="5" viewBox="0 0 9 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Left</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(55450 -22960)">
+<g id="Carat/Left">
+<g id="Carat/Left/Disabled">
+<g id="Carat/Left/Enabled" opacity="0.25">
+<g id="Carat/Right/Enabled">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="matrix(-6.13878e-17 1 1 6.10772e-17 -55448.6 22961)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Carat/Left/Enabled">
+<g id="Carat/Right/Enabled">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="matrix(-6.13878e-17 1 1 6.10772e-17 -55448.6 22961)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0.740788 -0.671739C 0.369797 -1.08086 -0.262613 -1.11178 -0.671739 -0.740788C -1.08086 -0.369797 -1.11178 0.262613 -0.740788 0.671739L 0.740788 -0.671739ZM 3 3.30838L 3.74079 3.98011C 4.0864 3.59897 4.0864 3.01778 3.74079 2.63664L 3 3.30838ZM -0.740788 5.94501C -1.11178 6.35414 -1.08086 6.98655 -0.671739 7.35754C -0.262613 7.72853 0.369797 7.69762 0.740788 7.28849L -0.740788 5.94501ZM -0.740788 0.671739L 2.25921 3.98011L 3.74079 2.63664L 0.740788 -0.671739L -0.740788 0.671739ZM 2.25921 2.63664L -0.740788 5.94501L 0.740788 7.28849L 3.74079 3.98011L 2.25921 2.63664Z"/>
+</defs>
+</svg>

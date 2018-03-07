@@ -1,0 +1,18 @@
+<svg width="12" height="11" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Archive icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(55842 -37893)">
+<g id="Archive icon">
+<g id="Vector (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(-55841.6 37893.4)" fill="#FFFFFF"/>
+</g>
+<g id="Vector 2 (Stroke)">
+<use xlink:href="#path1_fill" transform="matrix(1 -2.44929e-16 2.44929e-16 1 -55837.6 37898.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 11.3 0L 11.3 3.57273L 10.6636 3.57273L 10.6636 10.3909L 0.636364 10.3909L 0.636364 3.57273L 0 3.57273L 0 0ZM 1.93636 3.57273L 1.93636 9.09091L 9.36364 9.09091L 9.36364 3.57273L 1.93636 3.57273ZM 10 2.27273L 1.3 2.27273L 1.3 1.3L 10 1.3L 10 2.27273Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 0.65C 0 0.291015 0.291015 0 0.65 0L 2.46818 0C 2.82717 0 3.11818 0.291015 3.11818 0.65C 3.11818 1.00899 2.82717 1.3 2.46818 1.3L 0.65 1.3C 0.291015 1.3 0 1.00899 0 0.65Z"/>
+</defs>
+</svg>

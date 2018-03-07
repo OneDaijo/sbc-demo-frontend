@@ -1,0 +1,72 @@
+<svg width="14" height="9" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Vector</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(57224 -23592)">
+<rect x="-57224" y="23592" width="14" height="9" fill="#E5E5E5"/>
+<g id="Vector 2.2">
+<use xlink:href="#path0_stroke" transform="translate(-60681 15068)"/>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -58282 22931L -56842 22931L -56842 24281L -58282 24281L -58282 22931Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="18. Application approval &#226;&#128;&#148; Dashboard welcome" clip-path="url(#clip-0)">
+<path d="M -58282 22931L -56842 22931L -56842 24281L -58282 24281L -58282 22931Z" fill="#FAFCFC"/>
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -58282 22931L -56842 22931L -56842 24281L -58282 24281L -58282 22931Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Page/Empty" clip-path="url(#clip-1)">
+<path d="M -58282 22931L -56842 22931L -56842 24281L -58282 24281L -58282 22931Z" fill="#FAFCFC"/>
+</g>
+<g id="Flow/1/A">
+<g id="1 Apply &#226;&#128;&#148; Stack" filter="url(#filter0_d)">
+<g id="1 Apply &#226;&#128;&#148; Expanded action card">
+<g id="Expanded action card">
+<g id="Card">
+<use xlink:href="#path1_fill" transform="translate(-57952 23543)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(-57952 23543)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(-57952 23543)" fill="#F0F0F0"/>
+</g>
+</g>
+<g id="Carat/Up">
+<g id="Carat/Down">
+<g id="Carat/Right">
+<g id="Carat/Right/Disabled">
+<g id="Carat/Right/Enabled" opacity="0.25">
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -57212 23599)"/>
+</g>
+</g>
+</g>
+<g id="Carat/Right/Enabled">
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -57212 23599)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-58002" y="23518" width="900" height="713" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="25"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_stroke" d="M 0 0L 0 -25L -25 -25L -25 0L 0 0ZM 0 16209L -25 16209L -25 16234L 0 16234L 0 16209ZM 19447 16209L 19447 16234L 19472 16234L 19472 16209L 19447 16209ZM 19447 0L 19472 0L 19472 -25L 19447 -25L 19447 0ZM 8343.66 -25L 0 -25L 0 25L 8343.66 25L 8343.66 -25ZM -25 0L -25 16209L 25 16209L 25 0L -25 0ZM 0 16234L 19447 16234L 19447 16184L 0 16184L 0 16234ZM 19472 16209L 19472 0L 19422 0L 19422 16209L 19472 16209ZM 19447 -25L 11028.7 -25L 11028.7 25L 19447 25L 19447 -25Z"/>
+<path id="path1_fill" d="M 0 10C 0 4.47715 4.47715 0 10 0L 770 0C 775.523 0 780 4.47715 780 10L 780 447C 780 452.523 775.523 457 770 457L 10 457C 4.47715 457 0 452.523 0 447L 0 10Z"/>
+<path id="path2_stroke_2x" d="M 10 1L 770 1L 770 -1L 10 -1L 10 1ZM 779 10L 779 447L 781 447L 781 10L 779 10ZM 770 456L 10 456L 10 458L 770 458L 770 456ZM 1 447L 1 10L -1 10L -1 447L 1 447ZM 10 456C 5.02944 456 1 451.971 1 447L -1 447C -1 453.075 3.92487 458 10 458L 10 456ZM 779 447C 779 451.971 774.971 456 770 456L 770 458C 776.075 458 781 453.075 781 447L 779 447ZM 770 1C 774.971 1 779 5.02944 779 10L 781 10C 781 3.92487 776.075 -1 770 -1L 770 1ZM 10 -1C 3.92487 -1 -1 3.92487 -1 10L 1 10C 1 5.02944 5.02944 1 10 1L 10 -1Z"/>
+<path id="path3_stroke" d="M 1.06066 -1.06066C 0.474874 -1.64645 -0.474874 -1.64645 -1.06066 -1.06066C -1.64645 -0.474874 -1.64645 0.474874 -1.06066 1.06066L 1.06066 -1.06066ZM 5 5L 6.06066 6.06066C 6.64645 5.47487 6.64645 4.52513 6.06066 3.93934L 5 5ZM -1.06066 8.93934C -1.64645 9.52513 -1.64645 10.4749 -1.06066 11.0607C -0.474874 11.6464 0.474874 11.6464 1.06066 11.0607L -1.06066 8.93934ZM -1.06066 1.06066L 3.93934 6.06066L 6.06066 3.93934L 1.06066 -1.06066L -1.06066 1.06066ZM 3.93934 3.93934L -1.06066 8.93934L 1.06066 11.0607L 6.06066 6.06066L 3.93934 3.93934Z"/>
+</defs>
+</svg>

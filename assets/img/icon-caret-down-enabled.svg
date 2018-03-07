@@ -1,0 +1,77 @@
+<svg width="17" height="9" viewBox="0 0 17 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Enabled</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(57476 -16295)">
+<rect x="-57476" y="16295" width="17" height="9" fill="#E5E5E5"/>
+<g id="Vector 2.2">
+<use xlink:href="#path0_stroke" transform="translate(-60681 15068)"/>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -58282 15764L -56842 15764L -56842 16788L -58282 16788L -58282 15764Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="1. Landing page" clip-path="url(#clip-0)">
+<path d="M -58282 15764L -56842 15764L -56842 16788L -58282 16788L -58282 15764Z" fill="#0086BF"/>
+<g id="Mask Group">
+<g id="Group" style="mix-blend-mode:color-dodge">
+<g id="Vector" opacity="0.2">
+<use xlink:href="#path1_fill" transform="matrix(-1 0 0 1 -56828 16156)" fill="url(#paint1_linear)"/>
+</g>
+<g id="Vector" opacity="0.2">
+<use xlink:href="#path2_fill" transform="translate(-58316 16156)" fill="url(#paint2_linear)"/>
+</g>
+</g>
+</g>
+<g id="Subcard/Onboarding/Loan amount" filter="url(#filter0_d)">
+<g id="Rectangle">
+<use xlink:href="#path3_fill" transform="translate(-57832 16130)" fill="#FFFFFF"/>
+</g>
+<g id="Subcard/Loan amount/Content">
+<g id="Loan amount/Text">
+<g id="Currency">
+<g id="Carat/Down">
+<g id="Carat/Right">
+<g id="Carat/Right/Disabled">
+<g id="Carat/Right/Enabled" opacity="0.25">
+<g id="Vector">
+<use xlink:href="#path4_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -57460.9 16296)" fill="#001D26"/>
+</g>
+</g>
+</g>
+<g id="Carat/Right/Enabled">
+<g id="Vector">
+<use xlink:href="#path4_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -57460.9 16296)" fill="#001D26"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-57882" y="16090" width="640" height="516" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="10"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0881e-13 1715 -1777 1.05013e-13 1777 0)">
+<stop offset="0" stop-color="#454545"/>
+<stop offset="1" stop-color="#FFFFFF"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1181e-13 1761 -1826 1.0783e-13 1826 0)">
+<stop offset="0" stop-color="#454545"/>
+<stop offset="1" stop-color="#FFFFFF"/>
+</linearGradient>
+<path id="path0_stroke" d="M 0 0L 0 -25L -25 -25L -25 0L 0 0ZM 0 16209L -25 16209L -25 16234L 0 16234L 0 16209ZM 19447 16209L 19447 16234L 19472 16234L 19472 16209L 19447 16209ZM 19447 0L 19472 0L 19472 -25L 19447 -25L 19447 0ZM 8343.66 -25L 0 -25L 0 25L 8343.66 25L 8343.66 -25ZM -25 0L -25 16209L 25 16209L 25 0L -25 0ZM 0 16234L 19447 16234L 19447 16184L 0 16184L 0 16234ZM 19472 16209L 19472 0L 19422 0L 19422 16209L 19472 16209ZM 19447 -25L 11028.7 -25L 11028.7 25L 19447 25L 19447 -25Z"/>
+<path id="path1_fill" d="M 1777 619.405L 0 0L 0 1218.52L 1223.25 1715L 1777 619.405Z"/>
+<path id="path2_fill" d="M 1826 636.019L 0 0L 0 1251.2L 1256.98 1761L 1826 636.019Z"/>
+<path id="path3_fill" d="M 0 15C 0 6.71573 6.71573 0 15 0L 525 0C 533.284 0 540 6.71573 540 15L 540 401C 540 409.284 533.284 416 525 416L 15 416C 6.71573 416 0 409.284 0 401L 0 15Z"/>
+<path id="path4_stroke" d="M 0.707107 -0.707107C 0.316583 -1.09763 -0.316583 -1.09763 -0.707107 -0.707107C -1.09763 -0.316583 -1.09763 0.316583 -0.707107 0.707107L 0.707107 -0.707107ZM 7 7L 7.70711 7.70711C 8.09763 7.31658 8.09763 6.68342 7.70711 6.29289L 7 7ZM -0.707107 13.2929C -1.09763 13.6834 -1.09763 14.3166 -0.707107 14.7071C -0.316583 15.0976 0.316583 15.0976 0.707107 14.7071L -0.707107 13.2929ZM -0.707107 0.707107L 6.29289 7.70711L 7.70711 6.29289L 0.707107 -0.707107L -0.707107 0.707107ZM 6.29289 6.29289L -0.707107 13.2929L 0.707107 14.7071L 7.70711 7.70711L 6.29289 6.29289Z"/>
+</defs>
+</svg>

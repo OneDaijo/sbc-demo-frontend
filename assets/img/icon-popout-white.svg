@@ -1,0 +1,18 @@
+<svg width="11" height="11" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Pop out icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(55856 -37781)">
+<g id="Pop out icon">
+<g id="Vector 2 (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(-55855.6 37782.4)" fill="#FFFFFF"/>
+</g>
+<g id="Vector 3 (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(-55851.5 37781.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1.65 1.3C 1.4567 1.3 1.3 1.4567 1.3 1.65L 1.3 7.65C 1.3 7.8433 1.4567 8 1.65 8L 7.65 8C 7.8433 8 8 7.8433 8 7.65L 8 3.65L 9.3 3.65L 9.3 7.65C 9.3 8.56127 8.56127 9.3 7.65 9.3L 1.65 9.3C 0.73873 9.3 0 8.56127 0 7.65L 0 1.65C 0 0.73873 0.73873 0 1.65 0L 5.65 0L 5.65 1.3L 1.65 1.3Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 2.12629 0L 5.45962 0C 5.8186 0 6.10962 0.291015 6.10962 0.65L 6.10962 3.98333L 4.80962 3.98333L 4.80962 2.21924L 0.919239 6.10962L 0 5.19038L 3.89038 1.3L 2.12629 1.3L 2.12629 0Z"/>
+</defs>
+</svg>
