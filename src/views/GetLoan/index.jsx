@@ -548,7 +548,6 @@ class GetLoan extends Component {
     } else if (percent === 60) {
       const firebaseUser = firebaseAuth.getCurrentUser();
       const emailIsVerified = firebaseUser !== null && firebaseUser.emailVerified;
-      console.log(firebaseUser);
 
       const confirmEmail = !emailIsVerified && (
         <div className={ classes.confirmEmailContainer }>

@@ -111,7 +111,7 @@ export default (state = initialState, action = {}) => {
         ...state,
         user: {},
         loading: true,
-        error: null,
+        loginError: null,
       };
     }
 
@@ -131,7 +131,7 @@ export default (state = initialState, action = {}) => {
     case 'USER_LOGIN_REJECTED': {
       return {
         ...state,
-        error: action.payload.message || action.payload,
+        loginError: action.payload.message || action.payload,
         loading: false,
       };
     }

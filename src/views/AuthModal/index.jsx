@@ -49,6 +49,14 @@ const styles = {
   button: {
     marginTop: '30px',
   },
+  center: {
+    textAlign: 'center',
+  },
+  errorMessage: {
+    color: '#d60000',
+    marginTop: '20px',
+    fontSize: '14px',
+  },
 };
 
 const exists = val => val !== undefined && val !== null;
@@ -93,14 +101,16 @@ class AuthModal extends Component {
     }
   }
 
-  login() {
+  login(e) {
+    e.preventDefault();
     const { login } = this.props;
     const { email, password } = this.state;
 
     login({ email, password });
   }
 
-  signup() {
+  signup(e) {
+    e.preventDefault();
     const { signup } = this.props;
     const { email, password } = this.state;
 
@@ -112,7 +122,7 @@ class AuthModal extends Component {
       classes,
       show,
       onHide,
-      user: { loading },
+      user: { loading, loginError },
     } = this.props;
 
     const {
@@ -121,7 +131,8 @@ class AuthModal extends Component {
       password,
     } = this.state;
 
-    const modeText = mode === 'login' ? 'Log In' : 'Sign Up';
+    const isLoginMode = mode === 'login';
+    const modeText = isLoginMode ? 'Log In' : 'Sign Up';
 
     const areFieldsPopulated = email.length > 0 && password.length > 0;
     const enableButton = !loading && areFieldsPopulated;
@@ -133,30 +144,33 @@ class AuthModal extends Component {
         onCloseClick={ onHide }
       >
         <div className={ classes.title }>{ modeText }</div>
-        <TextField
-          id="AuthModal:TextField:email"
-          label="Email"
-          onChange={ event => this.setState({ email: event.target.value }) }
-          value={ email }
-          className={ classes.input }
-          rootClassName={ classes.input }
-        />
-        <TextField
-          id="AuthModal:TextField:password"
-          label="Password"
-          onChange={ event => this.setState({ password: event.target.value }) }
-          value={ password }
-          className={ classes.input }
-          rootClassName={ classes.input }
-          type="password"
-        />
-        <Button
-          active={ enableButton }
-          buttonClassName={ classes.button }
-          onClick={ mode === 'login' ? this.login : this.signup }
-        >
-          { modeText }
-        </Button>
+        <form className={ classes.center } onSubmit={ isLoginMode ? this.login : this.signup }>
+          <TextField
+            id="AuthModal:TextField:email"
+            label="Email"
+            onChange={ event => this.setState({ email: event.target.value }) }
+            value={ email }
+            className={ classes.input }
+            rootClassName={ classes.input }
+          />
+          <TextField
+            id="AuthModal:TextField:password"
+            label="Password"
+            onChange={ event => this.setState({ password: event.target.value }) }
+            value={ password }
+            className={ classes.input }
+            rootClassName={ classes.input }
+            type="password"
+          />
+          <Button
+            active={ enableButton }
+            buttonClassName={ classes.button }
+            onClick={ isLoginMode ? this.login : this.signup }
+          >
+            { modeText }
+          </Button>
+        </form>
+        <div className={ classes.errorMessage }>{ loginError }</div>
       </Modal>
     );
   }
